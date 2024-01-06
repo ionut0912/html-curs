@@ -1,15 +1,15 @@
-html{
+html {
     font: size 22px;
 }
 
-body{
-    background-color:#333
-    color: whitesmoke
+body {
+    background-color: #333 color: whitesmoke
 }
 
-a{
-    color:aliceblue
+a {
+    color: aliceblue
 }
-a:visited{
-    color:  #eee
+
+a:visited {
+    color: #eee
 }
