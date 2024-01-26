@@ -2,15 +2,21 @@ body {
     font-size: 22px;
 }
 h1,h2,h3{
-    color: brown;
+    color: black;
 }
 p{
 
-    color: blue;
+    color: olivedrab;
 }
 .gray {
     color: gray;
 }
 #secound {
     font-style: italic;
+}
+h1{
+    border: 2px; dashed red
+    width: 50%;
+    font-size 3ren
+    padding: 0.5 em
 }
